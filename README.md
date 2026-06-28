@@ -8,10 +8,8 @@ An interactive, sleek, dark-themed **Spotify Data Dashboard** built using **Powe
 Below is a snapshot of the interactive dashboard interface designed directly inside Power BI:
 
 <p align="center">
-  <img src="2.jpg" alt="Spotify Power BI Dashboard" width="100%">
+  <img src="2.PNG" alt="Spotify Power BI Dashboard" width="100%">
 </p>
-
-*Note: Ensure the dashboard image file (`2.jpg`) is uploaded to the root of your GitHub repository so it displays properly.*
 
 ---
 
