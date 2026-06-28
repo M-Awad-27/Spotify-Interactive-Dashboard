@@ -1,7 +1,5 @@
 # Spotify Interactive Power BI Dashboard
 
-![Spotify Dashboard Banner](2.jpg)
-
 An interactive, sleek, dark-themed **Spotify Data Dashboard** built using **Power BI**. This project replicates the modern Spotify user interface while delivering deep data insights into music trends, artist popularity, song distributions, and listening habits.
 
 ---
