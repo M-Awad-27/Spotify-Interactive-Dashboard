@@ -1,15 +1,19 @@
 # Spotify Interactive Power BI Dashboard
 
+![Spotify Dashboard Banner](2.png)
+
 An interactive, sleek, dark-themed **Spotify Data Dashboard** built using **Power BI**. This project replicates the modern Spotify user interface while delivering deep data insights into music trends, artist popularity, song distributions, and listening habits.
 
 ---
 
-## 🚀 Live Preview & Mockup
+## 🚀 Live Preview
 Below is a snapshot of the interactive dashboard interface designed directly inside Power BI:
 
 <p align="center">
-  <img src="2.PNG" alt="Spotify Power BI Dashboard" width="100%">
+  <img src="2.png" alt="Spotify Power BI Dashboard" width="100%">
 </p>
+
+*Note: Ensure your dashboard image file (`2.png`) is uploaded directly to the root of your GitHub repository so it displays properly.*
 
 ---
 
@@ -19,13 +23,19 @@ Below is a snapshot of the interactive dashboard interface designed directly ins
 * **High-Level KPI Cards:** Instantly view core metrics such as **Distinct Songs (789)**, **Total Artists (342)**, **Average Song Duration (3.28 min)**, and **Average Popularity (89.62)**.
 * **Music Player Visual:** A central creative tile stylized as an active music player showcasing trending tracks like Taylor Swift's *"Slut! (Taylor's Version)"*.
 * **Artist & Song Analytics:** * *Songs by Artist* breakdown tracking top streaming contributors (e.g., Taylor Swift, Travis Scott, Drake).
-    * *Stream Count Breakdown* showing total plays/reach per track.
+  * *Stream Count Breakdown* showing total plays/reach per track.
 * **Donut Chart Distributions:** * **Songs by Album:** Comparison between singles vs. full albums.
-    * **Explicit vs. Non-Explicit:** Tracking mature vs. clean content distribution.
-    * **Songs by Year & Popularity:** Breakdown across release years (2023 vs. 2024) and popularity brackets.
+  * **Explicit vs. Non-Explicit:** Tracking mature vs. clean content distribution.
+  * **Songs by Year & Popularity:** Breakdown across release years (2023 vs. 2024) and popularity brackets.
 * **Time-Series Insights:**
-    * *Average Popularity by Month:* A green area line chart tracking seasonal popularity fluctuations.
-    * *Distinct Songs by Month:* A clean bar chart monitoring content distribution month-over-month.
+  * *Average Popularity by Month:* A green area line chart tracking seasonal popularity fluctuations.
+  * *Distinct Songs by Month:* A clean bar chart monitoring content distribution month-over-month.
+
+---
+
+## 🧮 DAX Measures & Data Modeling
+
+To power the dynamic KPI cards and interactive charts on this dashboard, the following core **DAX (Data Analysis Expressions)** formulas were implemented.
 
 ---
 
