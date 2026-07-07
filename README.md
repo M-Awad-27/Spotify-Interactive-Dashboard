@@ -4,12 +4,23 @@ An interactive, sleek, dark-themed **Spotify Data Dashboard** built using **Powe
 
 ---
 
-## 🚀 Live Preview
-Below is a snapshot of the interactive dashboard interface designed directly inside Power BI:
+## 🚀 Dashboard Interface Preview
 
+### Main Overview
 <p align="center">
-  <img src="Preview.png" alt="Spotify Power BI Dashboard" width="100%">
+  <img src="Images/1.PNG" alt="Spotify Power BI Dashboard Main View" width="100%">
 </p>
+
+### Feature & View Breakdown
+<p align="center">
+  <img src="Images/2.PNG" width="48%" alt="Dashboard View 2" />
+  <img src="Images/3.PNG" width="48%" alt="Dashboard View 3" />
+</p>
+<p align="center">
+  <img src="Images/4.PNG" width="48%" alt="Dashboard View 4" />
+  <img src="Images/5.PNG" width="48%" alt="Dashboard View 5" />
+</p>
+
 ---
 
 ## 📊 Key Features & Visuals
@@ -19,9 +30,9 @@ Below is a snapshot of the interactive dashboard interface designed directly ins
 * **Music Player Visual:** A central creative tile stylized as an active music player showcasing trending tracks like Taylor Swift's *"Slut! (Taylor's Version)"*.
 * **Artist & Song Analytics:** * *Songs by Artist* breakdown tracking top streaming contributors (e.g., Taylor Swift, Travis Scott, Drake).
   * *Stream Count Breakdown* showing total plays/reach per track.
-* **Donut Chart Distributions:** * **Songs by Album:** Comparison between singles vs. full albums.
-  * **Explicit vs. Non-Explicit:** Tracking mature vs. clean content distribution.
-  * **Songs by Year & Popularity:** Breakdown across release years (2023 vs. 2024) and popularity brackets.
+* **Donut Chart Distributions:** * *Songs by Album:* Comparison between singles vs. full albums.
+  * *Explicit vs. Non-Explicit:* Tracking mature vs. clean content distribution.
+  * *Songs by Year & Popularity:* Breakdown across release years (2023 vs. 2024) and popularity brackets.
 * **Time-Series Insights:**
   * *Average Popularity by Month:* A green area line chart tracking seasonal popularity fluctuations.
   * *Distinct Songs by Month:* A clean bar chart monitoring content distribution month-over-month.
@@ -46,7 +57,7 @@ To power the dynamic KPI cards and interactive charts on this dashboard, the fol
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/M-Awad-27/Spotify-Interactive-Dashboard.git]
     ```
 2.  **Open in Power BI:**
     * Make sure you have [Power BI Desktop](https://powerbi.microsoft.com/) installed.
