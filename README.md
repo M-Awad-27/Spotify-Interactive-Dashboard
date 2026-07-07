@@ -8,12 +8,12 @@ An interactive, sleek, dark-themed **Spotify Data Dashboard** built using **Powe
 
 ### Main Overview
 <p align="center">
-  <img src="Images/1.PNG" alt="Spotify Power BI Dashboard Main View" width="100%">
+  <img src="Images/2.png" alt="Spotify Power BI Dashboard Main View" width="100%">
 </p>
 
 ### Feature & View Breakdown
 <p align="center">
-  <img src="Images/2.PNG" width="48%" alt="Dashboard View 2" />
+  <img src="Images/1.PNG" width="48%" alt="Dashboard View 2" />
   <img src="Images/3.PNG" width="48%" alt="Dashboard View 3" />
 </p>
 <p align="center">
