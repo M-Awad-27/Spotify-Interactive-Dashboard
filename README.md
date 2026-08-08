@@ -71,3 +71,9 @@ Contributions, issues, and feature requests are welcome! Feel free to check out 
 
 ## 📝 License
 This project is open-source and available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+<h1 align="center">
+  🍁 Made by <span style="color: #FF0055;">M</span><span style="color: #00E5FF;">A</span> 🍁
+</h1>
